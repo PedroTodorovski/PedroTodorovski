@@ -1,6 +1,8 @@
 # What's up, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Freedom and challenges, that's why I love coding universe. I'm Pedro, a brazilian 18 yars old web developer, currently graduating 
+Freedom and challenges, that's why I love coding universe. 
+
+I'm Pedro, a brazilian 18 yars old web developer, currently graduating 
 System Analysis and Development at UFPR - Federal University of Paraná, at Curtiba/PR, Brazil.
 
 At my repositories, you can find some experiments with a little bit of everything that I've learning in my career until now.
